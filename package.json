@@ -1,0 +1,13 @@
+{
+	"name": "eagleparser",
+	"author": "Brendan Powers - http://github.com/brendan0powers",
+	"description": "Parser for CadSoft's EagleCad 6.0 XML format",
+	"version": "0.1.0",
+	"main": "./index",
+	"engines": {
+		"node": ">=0.4.7"
+	},
+	"dependencies": {
+		"libxmljs": ">=0.5.0"
+	}
+}
